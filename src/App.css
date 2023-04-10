@@ -1,0 +1,34 @@
+h2 {
+	margin-top: 0;
+}
+
+.AddComponent {
+	border: 1px solid black;
+	margin-bottom: 15px;
+}
+
+#AddData {
+	margin-top: 10px;
+}
+
+.DataComponent {
+	border: 1px solid black;
+}
+
+.EmptyDataList {
+	margin-bottom: 0;
+}
+
+.Data {
+	background-color: gainsboro;
+}
+
+.RemoveData {
+	font-weight: bold;
+	color: green;
+}
+
+.RemoveData:hover {
+	cursor: pointer;	
+	text-decoration: underline;
+}
